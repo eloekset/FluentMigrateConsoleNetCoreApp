@@ -11,3 +11,4 @@ Steps to test this sample:
 It should download the FluentMigrator.Tools preview NuGet package from an unofficial NuGet source and execute the console runner with some default parameters to a test DB.
 
 Only SQL Server is supported so far.
+![Screenshot](https://github.com/eloekset/FluentMigrateConsoleNetCoreApp/raw/master/screenshot1.png)
